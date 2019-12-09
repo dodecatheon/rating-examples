@@ -1,0 +1,10 @@
+See https://en.wikipedia.org/wiki/Schulze_STV#Resistance_to_Vote_Management
+
+in SchulzeSTV_sincere, 12 Yellow Party voters rank Andrea > Carter > Brad
+
+In STV, 2 winners are Andrea & Brad
+
+In SchulzeSTV_votemanagement, the Yellow Party instructs those voters to vote Carter > Andrea > Brad
+
+In traditional STV, 2 winners are now Andrea & Carter.  The Yellow Party has successfully gained both
+seats instead of only one.
