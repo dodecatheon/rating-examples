@@ -1,5 +1,5 @@
 Examples benham1.csv, benham2.csv, and benham3.csv are used to test for Chicken
-Dilemma criterian compliance.  They were taken from
+Dilemma criterion compliance.  They were taken from
 
 http://lists.electorama.com/pipermail/election-methods-electorama.com/2016-October/000599.html
 
